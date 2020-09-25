@@ -38,7 +38,7 @@ Shapely==1.7.0
 six==1.15.0
 sortedcontainers==2.2.2
 tblib==1.6.0
-tensorflow-gpu==2.1.0
+tensorflow-gpu==2.1.2
 threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
 tifffile==2020.6.3
 toolz==0.10.0
