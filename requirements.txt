@@ -9,7 +9,7 @@ fsspec==0.7.4
 HeapDict==1.0.1
 imageio==2.5.0
 imgaug==0.2.9
-Jinja2==2.11.2
+Jinja2==2.11.3
 joblib==0.15.1
 keras-segmentation @ git+https://github.com/divamgupta/image-segmentation-keras.git@bb7ac1f5cbaa884cea94e56c1a2aa5ea1690ed26
 locket==0.2.0
