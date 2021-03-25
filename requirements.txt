@@ -30,7 +30,7 @@ pyparsing==2.4.7
 python-dateutil==2.8.1
 pytz==2020.1
 PyWavelets==1.1.1
-PyYAML==5.3.1
+PyYAML==5.4
 scikit-image==0.17.2
 scikit-learn @ file:///C:/ci/scikit-learn_1592847564598/work
 scipy @ file:///C:/ci/scipy_1592916958183/work
