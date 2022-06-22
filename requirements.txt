@@ -19,7 +19,7 @@ mkl-random==1.1.1
 mkl-service==2.3.0
 msgpack==1.0.0
 networkx==2.4
-numpy==1.19.0
+numpy==1.22.0
 opencv-python==4.2.0.34
 packaging==20.4
 pandas==1.0.5
